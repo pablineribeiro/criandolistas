@@ -1,0 +1,69 @@
+<!doctype html>
+ 
+<!DOCTYPE html>
+<html>
+	
+	<head>
+			<title>Pabline Ribeiro</title>
+		<meta charset="utf-8">
+	</head>
+	
+	<body>
+	 <h2>Mapa do Site</h2>
+	 <!-- Lista Não ordenada circle, square,disc-->
+	 <ul type="circle">
+	 	<li>Home</li>
+	 	<li>Quem Somos</li>
+	 	<li>Contatos</li>
+	 </ul>
+
+	 <h2>Mapa do Site</h2>
+	 <ul type="square">
+	 	<li>Home</li>
+	 	<li>Quem Somos</li>
+	 	<li>Contatos</li>
+	 </ul>
+
+	 <h2>Mapa do Site</h2>
+	 <ul type="disc">
+	 	<li>Home</li>
+	 	<li>Quem Somos</li>
+	 	<li>Contatos</li>
+	 </ul>
+<!-- Lista ordenada: 1,A,a,I,i-->
+	 <h2>Perguntas</h2>
+	 	 <ol type="1">
+	 	<li>Comida favorita?</li>
+	 	<li>Carro favorito?</li>
+	 	<li>Série Favorita?</li>
+	 	</ol>
+	 	
+	 	<h2>Perguntas</h2>
+	 	 <ol type="A">
+	 	<li>Comida favorita?</li>
+	 	<li>Carro favorito?</li>
+	 	<li>Série Favorita?</li>
+	 	</ol>
+
+	 	<h2>Perguntas</h2>
+	 	 <ol type="a">
+	 	<li>Comida favorita?</li>
+	 	<li>Carro favorito?</li>
+	 	<li>Série Favorita?</li>
+	 	</ol>
+
+	 	<h2>Perguntas</h2>
+	 	 <ol type="I">
+	 	<li>Comida favorita?</li>
+	 	<li>Carro favorito?</li>
+	 	<li>Série Favorita?</li>
+	 	</ol>
+
+	 	<h2>Perguntas</h2>
+	 	 <ol type="i">
+	 	<li>Comida favorita?</li>
+	 	<li>Carro favorito?</li>
+	 	<li>Série Favorita?</li>
+	 	</ol>
+	</body>
+</html>
